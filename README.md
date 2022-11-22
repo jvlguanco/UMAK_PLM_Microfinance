@@ -21,15 +21,18 @@ samples, guidance on mobile development, and a full API reference.
  
     - flutter pub get
 
-##How to Install
+## How to Install
 
 Clone the repository
 
 In command line:
 
 $ git clone https://github.com/BooManLag/UMAK_PLM_Microfinance.git
+
 $ cd UMAK_PLM_Microfinance
+
 $ flutter pub get
+
 At this point you can run the application on you selected Virtual or Physical Device
 
 ## Key Features
